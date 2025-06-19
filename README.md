@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# ror-debutant-fr1
+[ROR]-DebutantFR
+>>>>>>> 60b728f03bd14a59a26783b1571b053aa933ecc4
